@@ -6,7 +6,6 @@ I'm passionate about software development and web development. My journey in the
 - 🌱 **Currently Learning**: Advanced JavaScript, AI, and Machine Learning
 - 💻 **Working on**: A history-based platform where historical figures interact with users!
 - 👨‍💻 **Interests**: Software development, web development, AI, and tech innovations
-- 📫 **Reach me at**: [Your Email] | [LinkedIn]
 
 ---
 
@@ -43,9 +42,14 @@ I'm passionate about software development and web development. My journey in the
 
 ![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DARSHAN-V-G&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DARSHAN-V-G&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DARSHAN-V-G&layout=compact&theme=radical)
+
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YourLinkedIn)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/YourTwitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darshan-v-g/)
+[![Mail](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshanguna22@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DARSHAN_V_G/)
