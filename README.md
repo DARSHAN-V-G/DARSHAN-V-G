@@ -1,55 +1,102 @@
-# Hi there! 👋 I'm **Darshan V G**
+# Darshan V G
 
-## About Me
-I'm passionate about software development and web development. My journey in the tech field has been fueled by curiosity, creativity, and the desire to build engaging solutions that make an impact.
+## Pre-final Year B.E. CSE (AI & ML) Student | Full-Stack Developer
 
-- 🌱 **Currently Learning**: Advanced JavaScript, AI, and Machine Learning
-- 💻 **Working on**: A history-based platform where historical figures interact with users!
-- 👨‍💻 **Interests**: Software development, web development, AI, and tech innovations
+Pre-final year Computer Science and Engineering student specializing in AI & ML at PSG College of Technology with a 9.65 CGPA. Passionate about building scalable, real-time systems through hands-on development and problem-solving. Currently ranked 1st in 2nd and 3rd semesters with strong expertise in full-stack web development and core computer science fundamentals.
 
----
+### Current Focus
+- **Education**: B.E. Computer Science and Engineering - AI & ML at PSG College of Technology
+- **Specialization**: Scalable Backend Systems, Artificial Intelligence, and Machine Learning
+- **Problem Solving**: LeetCode - 350+ problems solved, Contest rating 1680 (Top 14.58%)
+- **Leadership**: Active tech team member in Students Union, GitHub Campus Club, and CSEA
 
-## 🚀 Tech Stacks
+## Achievements & Recognition
 
-### **Languages**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+### Academic Excellence
+- **CGPA**: 9.65/10 (till 4th semester) at PSG College of Technology
+- **Rank Holder**: 1st Position in 2nd and 3rd semesters
+- **Higher Secondary**: 97.8% with 2nd rank at school level
 
-### **Web Development - MERN Stack**
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+### Competitive Programming
+![LeetCode Stats](https://img.shields.io/badge/LeetCode-350%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1680-orange?style=for-the-badge)
+![Ranking](https://img.shields.io/badge/Top-14.58%25-success?style=for-the-badge)
 
-### **Database & Tools**
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+### Hackathons & Competitions
+- **1st Place**: NexTech 2024, Hack-Sphere
+- **Participant**: Sociotech, ImagineerX
 
----
-
-## 📚 Featured Project: **History Revealed**
-- **Description**: A platform with an extraordinary user experience where historical characters like **Kattabomman** engage users by chatting and speaking about their life incidents.
-- **Technology**: Built using **Gemini** and **ElevenLabs**.
-- [![View on GitHub](https://img.shields.io/badge/GitHub-Project-blue?style=for-the-badge&logo=github)](https://github.com/DARSHAN-V-G)
+### Certifications
+- Full Stack Web Development - InternEzy (MERN)
+- UI/UX Design - InternEzy (Figma)
+- Generative AI Workshop - EY (Ernst & Young)
 
 ---
 
-## 📈 GitHub Stats
+## Technical Expertise
 
-![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DARSHAN-V-G&show_icons=true&theme=radical)
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DARSHAN-V-G&theme=radical)
+### Web Development Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DARSHAN-V-G&layout=compact&theme=radical)
+### Database & Development Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### AI & Security
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
 
-## 🌐 Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darshan-v-g/)
-[![Mail](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshanguna22@gmail.com)
+## GitHub Analytics
+
+### Profile Statistics
+![Profile Views](https://komarev.com/ghpvc/?username=DARSHAN-V-G&style=for-the-badge&color=brightgreen)
+
+<div align="center">
+
+### Daily Contribution Pattern
+![GitHub Contribution Grid](https://ghchart.rshah.org/409ba5/DARSHAN-V-G)
+
+</div>
+
+---
+
+## Professional Connections
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-v-g/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshanguna22@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/DARSHAN_V_G/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+**Location**: Coimbatore, India | **Phone**: +91 9790521129
+
+---
+
+<div align="center">
+
+**"Building scalable solutions through innovation and continuous learning"**
+
+*Currently contributing as Tech Team Member at Students Union PSG, GitHub Campus Club, and CSEA*
+
+</div>
