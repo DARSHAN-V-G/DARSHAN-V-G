@@ -1,8 +1,8 @@
 # Darshan V G
 
-## Pre-final Year B.E. CSE (AI & ML) Student | Full-Stack Developer
+## Final Year B.E. CSE (AI & ML) Student | Full-Stack Developer
 
-Pre-final year Computer Science and Engineering student specializing in AI & ML at PSG College of Technology with a 9.65 CGPA. Passionate about building scalable, real-time systems through hands-on development and problem-solving. Currently ranked 1st in 2nd and 3rd semesters with strong expertise in full-stack web development and core computer science fundamentals.
+Final year Computer Science and Engineering student specializing in AI & ML at PSG College of Technology with a 9.41 CGPA. Passionate about building scalable, real-time systems through hands-on development and problem-solving. Currently ranked 1st in 2nd and 3rd semesters with strong expertise in full-stack web development and core computer science fundamentals.
 
 ### Current Focus
 - **Education**: B.E. Computer Science and Engineering - AI & ML at PSG College of Technology
